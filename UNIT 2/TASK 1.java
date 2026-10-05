@@ -25,6 +25,7 @@ class Solution {
 
 
 Input/Output
+    
   Input
 s =
 "book"
