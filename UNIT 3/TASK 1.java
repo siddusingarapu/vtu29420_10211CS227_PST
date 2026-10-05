@@ -24,6 +24,7 @@ class ParkingSystem {
     }
 }
 
+
 Input/Output
   Input
 ["ParkingSystem","addCar","addCar","addCar","addCar"]
