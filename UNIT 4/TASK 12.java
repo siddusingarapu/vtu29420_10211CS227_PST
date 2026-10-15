@@ -21,6 +21,7 @@ public class FirstUniqueCharacter {
     }
 }
 
+
 Input/Output
   swiss
   Output:
